@@ -10,3 +10,13 @@
 
 ２、webpack配置调整
 - 参考blog链接: https://github.com/tonyfree/blog/issues/1
+
+
+## test
+1、npm install
+
+2、npm run dev
+
+3、http://localhost:8080/index.html
+
+4、http://localhost:8080/cart.html
